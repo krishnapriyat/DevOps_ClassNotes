@@ -1,7 +1,7 @@
 We have 2 GIT hub users :
  
-User 1: sonal0409
-User 2: sonal04devops
+User 1: sobhareddy
+User 2: grvsobha
 
 Execute the below steps to see how git fork and clone works.
 
